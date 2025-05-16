@@ -10,7 +10,7 @@ The original website is optimized exclusively for mobile devices. Unfortunately,
 
 ## 💡 Solution
 
-This app forces the mobile version of the site into a fixed, responsive frame using a portable Chromium engine. The result is a stable and clean interface—directly on your desktop.
+This app forces the mobile version of the site into a fixed, responsive frame using a portable Chromium engine. The result is a stable and clean interface — directly on your desktop.
 
 
 ## 🖼️ Screenshots
